@@ -1,4 +1,7 @@
 # CMPUT XXX:
 ## Assignment X: (XXX)
-By: Ahmed Refik
+By: JOE SMITH
 ### File Structure:
+130
+### Design Decisions
+### Running Instructions
