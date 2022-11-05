@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# cli.py
+# tree.py
 
 import argparse
 import pathlib
