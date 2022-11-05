@@ -1,0 +1,12 @@
+[33m../pytree/
+│
+[32m└── __pycache__/
+│  [31m└──rptree.cpython-36.pyc
+│  [31m└──pytree.cpython-36.pyc
+│  [31m└──cli.cpython-36.pyc
+│  [31m└──__init__.cpython-36.pyc
+│
+[31m└──pytree.py
+[31m└──outdated_tree.txt
+[31m└──tree.py
+[31m└──__init__.py
