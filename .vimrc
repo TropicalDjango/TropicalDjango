@@ -27,8 +27,8 @@ filetype indent on
 " Turn syntax highlighting on.
 syntax on
 
-" Add numbers to each line.
-set number
+" Add relative numbers to each line.
+set number relativenumber
 
 " Highlight cursor line horizontally.
 set cursorline
@@ -123,7 +123,7 @@ nnoremap <silent> <leader>p :%w !lp<CR>
 
 " buffer select
 
-nnoremap <silent> <leader>b :buffers<CR>:buffer<SPACE>
+nnoremap <silent> <leader>b :edit<SPACE>
 nnoremap <silent> <leader>n :bnext<CR>
 nnoremap <silent> <leader>v :bprev<CR>
 
