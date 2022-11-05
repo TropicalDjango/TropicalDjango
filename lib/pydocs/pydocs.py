@@ -1,5 +1,3 @@
-
-
 def fileRead(file_in_name, file_out):
     
     file_in = open(file_in_name,'r')
@@ -7,13 +5,12 @@ def fileRead(file_in_name, file_out):
     
     comments = ""
     start_com = False
+    comment_count = 0
     
     for line in Lines:
         index = line.find("/**")
-        print(index)
         if index != -1 and not start_com:
             comments = line[index+3:]
-            print("HODWY: " + comments)
             file_out.write(comments)
             start_com = True
         else:
