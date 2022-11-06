@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TropicalDjango
 - 👀 I’m interested in ... Gainful Employment
-- 🌱 I’m currently learning ... R and Go
+- 🌱 I’m currently learning ... Rust and Python
 - 💞️ I’m looking to collaborate on ... Cool stuff
 - 📫 How to reach me ... on this profile
 
